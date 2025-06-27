@@ -46,6 +46,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://github.com/gulziraAbudula/week3-project/blob/db019bc6c6655ce3ed278ad2738f484ca3eabaac/flashcard-project3/src/assets/Codepath_WEB102_Week03.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
